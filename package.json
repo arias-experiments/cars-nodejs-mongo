@@ -1,0 +1,29 @@
+{
+  "name": "cars-nodejs-mongo",
+  "version": "0.0.1",
+  "description": "Simple Car application using NodeJS, Express, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arias-experiments/cars-nodejs-mongo.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "express"
+  ],
+  "author": "Carlos R. Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arias-experiments/cars-nodejs-mongo/issues"
+  },
+  "homepage": "https://github.com/arias-experiments/cars-nodejs-mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
